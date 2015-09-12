@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "src/foo.h"
+#include "foo.h"
 
 int Foo::sum() {
   return i_ + j_;

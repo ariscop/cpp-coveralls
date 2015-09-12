@@ -16,7 +16,7 @@
 
 #include <cstdio>
 #include <string>
-#include "src/foo.h"
+#include "foo.h"
 
 int main() {
   Foo f(1, 2);
